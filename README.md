@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Raghav Atris</h1>
+<h1 align="center">Hi 👋, I'm Raghav Atris</h1>
 <h3 align="center">Revoltionizing Technology</h3>
 
 ![](https://komarev.com/ghpvc/?username=RaghavAtris69)
