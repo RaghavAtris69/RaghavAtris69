@@ -15,8 +15,8 @@
 ---
 
 ## About Me
-- 🔭 I am currently an entrepreneur and a software developer [Smart Satan](https://www.smartsatan.com)
-- 🚀 I am an Ambassador for [Weights & Biases](https://wandb.ai/site)
+- 🔭 I am currently an entrepreneur and a software developer
+- 🚀 I am the CEO of [Smart Satan](https://www.smartsatan.com) An initiative with a very Intuitive and Advanced technology, aiming in reduction of human efforts and helping people in their daily lives.
 - 🌱 I’m currently learning CyberSecurity
 - 👯 I’m looking to collaborate on Open Source 
 - 💪 Currently working on A.I and M.L
