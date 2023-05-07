@@ -10,7 +10,7 @@
 
 ***Drop a mail, if you want to have a talk!***
 
-<a href="atrisraghav@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="mailto:atrisraghav@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="twitter"></a>
 
 ---
 
