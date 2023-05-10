@@ -16,7 +16,7 @@
 
 ## About Me
 - 🔭 I am currently an entrepreneur and a software developer
-- 🚀 I am the CEO of [Smart Satan](https://www.smartsatan.com) An initiative with a very Intuitive and Advanced technology, aiming in reduction of human efforts and helping people in their daily lives. Follow us on [YouTube](youtube.com/@SmartSatan)  and [Instagram](Instragram.com/smart_satan)
+- 🚀 I am the CEO of [Smart Satan](https://www.smartsatan.com) An initiative with a very Intuitive and Advanced technology, aiming in reduction of human efforts and helping people in their daily lives. Follow us on [YouTube](https://www.youtube.com/@SmartSatab) and [Instagram](https://www.instagram.com/smart_satan)
 - 🌱 I’m currently learning CyberSecurity
 - 👯 I’m looking to collaborate on Open Source 
 - 💪 Currently working on A.I and M.L
