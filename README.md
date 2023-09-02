@@ -15,10 +15,9 @@
 ---
 
 ## About Me
-- 🔭 I am an entrepreneur and a software developer
-- 🚀 I am the Founder and CEO of [Smart Satan](https://www.smartsatan.com) An initiative with a very Intuitive and Advanced technology, aiming in reduction of human efforts and helping people in their daily lives.
-- 🌱 I’m currently learning Ethical Hacking    
-- 👯 I’m looking to collaborate on Open Source 
+- 🔭 Aspiring AI Innovator | High School Student 🎓
+- 🚀 Founder and CEO of [Smart Satan](https://www.smartsatan.com) An initiative with a very Intuitive and Advanced technology, aiming in reduction of human efforts and helping people in their daily lives. 
+- 👯 Looking to collaborate on Open Source 
 - 💪 Currently working on A.I and M.L
 ---
 
