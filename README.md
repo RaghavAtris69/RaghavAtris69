@@ -3,14 +3,14 @@
 
 ![](https://komarev.com/ghpvc/?username=RaghavAtris69)
 
-#### Welcome to my Profile. This is an overview of all the work I did and I'm planning to do.
+### Welcome to my Profile. This is an overview of all the work I did and I'm planning to do.
 
----
+
 ## Contact Me
 
-***Drop a mail, if you want to have a talk!***
+***Hit me up on mail, if you want to have a talk!***
 
-<a href="mailto:atrisraghav@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="twitter"></a>
+<a href="mailto:atharvaaingle@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="twitter"></a>
 
 ---
 
