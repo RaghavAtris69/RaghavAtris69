@@ -16,7 +16,7 @@
 
 ## About Me
 - 🔭 Aspiring AI Innovator | High School Entrepreneur 🎓
-- 🚀 Co Founder and CEO of [Existense](existense.in) An initiative with a very Intuitive and Advanced technology, aiming in reduction of human efforts and helping people in their daily lives. 
+- 🚀 Co Founder and CEO of [Existense]() An initiative with a very Intuitive and Advanced technology, aiming in reduction of human efforts and helping people in their daily lives. 
 - 👯 Looking to collaborate on Open Source 
 - 💪 Currently working on A.I and M.L
 ---
