@@ -21,3 +21,5 @@
 - 👯 Looking to collaborate on Open Source 
 - 💪 Currently working on A.I and M.L
 ---
+
+![Raghav's github stats](https://github-readme-stats.vercel.app/api?username=RaghavAtris69&theme=tokyonight&show_icons=true)
