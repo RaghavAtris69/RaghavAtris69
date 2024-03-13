@@ -2,8 +2,6 @@
 <h3 align="center">Revoltionizing Technology</h3>
 
 
-### Welcome to my Profile. This is an overview of all the work I did and I'm planning to do.
-
 ---
 
 ## Contact Me
